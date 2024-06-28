@@ -1,8 +1,3 @@
-L6E4
-2.
-So how is it hanging?
-
-Cool way gang
 #include<stdio.h>
 #include <stdlib.h>
 
